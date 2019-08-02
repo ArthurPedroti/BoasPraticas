@@ -1,0 +1,9 @@
+1º - Criar repositorio vazio
+2º - Copiar o projeto WP na pasta
+3º - Criar o arquivo .gitignore padrão para WP
+4º - Dar o commit inicial no repositorio
+5º - Configurar o continuos deployment no servidor
+6º - Enviar os outros arquivos que faltam por FPT
+
+// Tudo ok, agora é só versionar e atualizar o repositorio do git
+para atualizar o servidor
