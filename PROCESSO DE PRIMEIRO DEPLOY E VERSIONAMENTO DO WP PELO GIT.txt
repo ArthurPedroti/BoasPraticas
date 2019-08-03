@@ -3,7 +3,12 @@
 3º - Criar o arquivo .gitignore padrão para WP
 4º - Dar o commit inicial no repositorio
 5º - Configurar o continuos deployment no servidor
-6º - Enviar os outros arquivos que faltam por FPT
+6º - Enviar os outros arquivos que faltam por FPT {
+    Conectarse com o Filezilla
+    Jogar a pasta com todos os arquivos na repositorio
+    Ao dar o erro que já existe, escolher "Pular" e "Fazer sempre essa 
+    ação / Com essa fila"
+}
 
 // Tudo ok, agora é só versionar e atualizar o repositorio do git
 para atualizar o servidor
