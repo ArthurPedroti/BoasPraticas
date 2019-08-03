@@ -1,7 +1,10 @@
 1º - Criar repositorio vazio
 2º - Copiar o projeto WP na pasta
 3º - Criar o arquivo .gitignore padrão para WP
-4º - Criar bd e importar o bd
+4º - Criar bd e importar o bd {
+    - Entrar na tabela wp-configs
+    - alterar o value url e home para o dominio
+}
 5º - Alterar e o configurar o arquivo "wp-config" 
 6º - Dar o commit inicial no repositorio
 7º - Configurar o continuos deployment no servidor
