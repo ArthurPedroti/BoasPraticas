@@ -1,0 +1,6 @@
+sudo add-apt-repository universe
+
+sudo vbetool dpms off
+sudo vbetool dpms on
+
+sudo sh -c 'vbetool dpms off; read ans; vbetool dpms on'
